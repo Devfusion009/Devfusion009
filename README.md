@@ -5,7 +5,7 @@
 I design and ship production-grade software from AI-powered platforms to scalable SaaS products.  
 Currently focused on bringing smart automation and conversational AI into real-world workflows.
 
----
+
 
 ## 🛠 What I Work With
 
@@ -17,7 +17,7 @@ Currently focused on bringing smart automation and conversational AI into real-w
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
---
+
 
 ## 📬 Let's Connect
 
