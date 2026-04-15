@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Subhadip
+# Hi there! 👋 I'm Gourav
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=🚀+Co-Founder+%40+Codegang;Full+Stack+Developer;AI+%26+Automation+Engineer;AWS+Cloud+Architect;Building+Products+That+Matter" alt="Typing SVG" />
