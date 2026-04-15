@@ -19,13 +19,6 @@ Currently focused on bringing smart automation and conversational AI into real-w
 
 --
 
-## 🏢 About Codegang
-
-We're a lean software studio that turns complex ideas into clean, scalable products.  
-From MVPs to full-scale platforms  we build it end to end.
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
