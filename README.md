@@ -1,8 +1,8 @@
-# Hey, I'm Subhadip 👋
+# Hey, 👋
 
-> Co-founder @ **Codegang** · Full-Stack Developer · Building products that matter
 
-I design and ship production-grade software — from AI-powered platforms to scalable SaaS products.  
+
+I design and ship production-grade software from AI-powered platforms to scalable SaaS products.  
 Currently focused on bringing smart automation and conversational AI into real-world workflows.
 
 ---
@@ -17,20 +17,12 @@ Currently focused on bringing smart automation and conversational AI into real-w
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
----
-
-## 🚀 What I'm Building
-
-- 🤖 AI-powered tools for document generation, client intake & workflow automation
-- 🏗 Multi-tenant SaaS platforms for enterprise clients
-- ☁️ Cloud-native backends deployed on AWS with Docker
-
----
+--
 
 ## 🏢 About Codegang
 
 We're a lean software studio that turns complex ideas into clean, scalable products.  
-From MVPs to full-scale platforms — we build it end to end.
+From MVPs to full-scale platforms  we build it end to end.
 
 ---
 
