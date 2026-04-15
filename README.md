@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gourav
+# Hi there, I'm Gourav 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=🚀+Co-Founder+%40+Codegang;Full+Stack+Developer;AI+%26+Automation+Engineer;AWS+Cloud+Architect;Building+Products+That+Matter" alt="Typing SVG" />
@@ -11,13 +11,13 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Website](https://img.shields.io/badge/Codegang-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-chakraborty-412349204/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gchakraborty996@gmail.com)
+[![Website](https://img.shields.io/badge/Codegang-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codegang.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devfusion009)
 
 </div>
@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I'm a **Project mangager in Mathco** and **Co-Founder of Codegang**  a lean software studio delivering production-grade digital products for clients worldwide.
+I'm a **Project Manager at Mathco** and **Co-Founder of Codegang** — a lean software studio delivering production-grade digital products for clients worldwide.
 
 With **4+ years of experience**, I specialize in building **AI-powered platforms**, **scalable SaaS products**, and **cloud-native backends** that solve real business problems — not just write code, but architect solutions.
 
@@ -44,6 +44,7 @@ With **4+ years of experience**, I specialize in building **AI-powered platforms
 - Conversational AI apps powered by **Claude, Gemini & OpenAI**
 - AI-driven document generation with **WhatsApp + Payment integrations**
 - Smart intake forms that replace static forms with intelligent conversations
+- LLM Agents & RAG pipelines
 
 ### ☁️ Cloud & DevOps
 - **AWS EC2, S3, RDS** — full infrastructure setup & management
@@ -54,6 +55,7 @@ With **4+ years of experience**, I specialize in building **AI-powered platforms
 - Multi-tenant SaaS platforms built from scratch
 - RESTful & GraphQL APIs
 - Custom dashboards, CRMs & admin panels
+- Third-party & payment integrations
 
 ---
 
@@ -119,6 +121,18 @@ With **4+ years of experience**, I specialize in building **AI-powered platforms
 
 ---
 
+## 📈 Notable Projects
+
+| Project | Description |
+|---|---|
+| 🤖 **ResumeAI** | AI-powered resume builder deployed on AWS with Docker |
+| 📄 **OpenPaper** | AI document generation with WhatsApp + Payments (Germany client) |
+| 🏢 **Multi-Tenant SaaS Platform** | Enterprise-grade, built for scale |
+| 📊 **Cement Industry Dashboard** | Real-time analytics platform with contract delivery |
+| 🏥 **GE Healthcare Camera Platform** | Medical-grade live streaming at 90%+ test coverage |
+
+---
+
 ## 🎯 Services We Offer
 
 ```typescript
@@ -146,24 +160,14 @@ const codegang = {
 
 ---
 
-## 📈 Notable Projects
+### 💡 My Philosophy
 
-- 🤖 **ResumeAI** — AI-powered resume builder deployed on AWS with Docker
-- 📄 **OpenPaper** — AI document generation with WhatsApp + Payments (Germany client)
-- 🏢 **Multi-Tenant SaaS Platform** — Enterprise-grade, built for scale
-- 📊 **Cement Industry Dashboard** — Real-time analytics platform with contract delivery
-- 🏥 **GE Healthcare Camera Platform** — Medical-grade live streaming at 90%+ test coverage
+> *"Don't just ship features — ship confidence. Every line of code is a promise to the user that it will work."*
+
+> *"The best time to write clean code was at the start. The second best time is now."*
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Something+Amazing&fontSize=24&fontAlignY=65&desc=Open+to+freelance+%7C+SaaS+collab+%7C+enterprise+contracts&descAlignY=50&descAlign=center&fontColor=ffffff" />
 </div>
-
----
-
-### 💡 My Philosophy
-
-> *"Don't just ship features — ship confidence. Every line of code is a promise to the user that it will work."*
-
-> *"The best time to write clean code was at the start. The second best time is now."*
