@@ -52,7 +52,7 @@ With **4+ years of experience**, I specialize in building **AI-powered platforms
 - CI/CD pipelines, PM2 process management, auto-scaling
 
 ### 🏗 SaaS & Enterprise Platforms
-- Multi-tenant SaaS platforms built from scratch
+-Built many SaaS platforms built from scratch
 - RESTful & GraphQL APIs
 - Custom dashboards, CRMs & admin panels
 - Third-party & payment integrations
