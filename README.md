@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-chakraborty-412349204/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gchakraborty996@gmail.com)
 [![Website](https://img.shields.io/badge/Codegang-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codegang.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devfusion009)
@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I'm a **Project Manager at Mathco** and **Co-Founder of Codegang** — a lean software studio delivering production-grade digital products for clients worldwide.
+I'm a **Software engineer** and **Co-Founder of Codegang** — a lean software studio delivering production-grade digital products for clients worldwide.
 
 With **4+ years of experience**, I specialize in building **AI-powered platforms**, **scalable SaaS products**, and **cloud-native backends** that solve real business problems — not just write code, but architect solutions.
 
