@@ -100,8 +100,8 @@ With **4+ years of experience**, I specialize in building **AI-powered platforms
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devfusion009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devfusion009&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devfusion009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devfusion009&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 <div align="center">
