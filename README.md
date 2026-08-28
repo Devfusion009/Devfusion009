@@ -16,7 +16,7 @@
 <div align="center">
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gchakraborty996@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasmalsubhadip80@gmail.com)
 [![Website](https://img.shields.io/badge/Codegang-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codegang.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devfusion009)
 
