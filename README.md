@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software engineer** and **Co-Founder of Codegang** — a lean software studio delivering production-grade digital products for clients worldwide.
+I'm Subhadip a **Software engineer** and **Co-Founder of Codegang** — a lean software studio delivering production-grade digital products for clients worldwide.
 
 With **4+ years of experience**, I specialize in building **AI-powered platforms**, **scalable SaaS products**, and **cloud-native backends** that solve real business problems — not just write code, but architect solutions.
 
