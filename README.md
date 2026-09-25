@@ -36,15 +36,6 @@ I'm a **Software Engineer** focused on building production-oriented systems acro
 
 With **4+ years of experience**, I enjoy taking complex ideas and turning them into software that is practical, maintainable, and built to scale.
 
-```text
-AI Systems        →        Backend        →        Cloud        →        Product
-     │                         │                  │                  │
-     ├─ LLMs                   ├─ APIs           ├─ AWS             ├─ SaaS
-     ├─ RAG                    ├─ Services       ├─ Docker          ├─ Platforms
-     ├─ Agents                 ├─ Databases      ├─ CI/CD           ├─ Dashboards
-     └─ Automation             └─ Architecture   └─ Infrastructure  └─ Integrations
-```
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -79,17 +70,17 @@ AI Systems        →        Backend        →        Cloud        →        P
 <div align="center">
 
 <a href="https://github.com/Devfusion009/yolov8-multiple-vehicle-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Devfusion009&repo=yolov8-multiple-vehicle-detection&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Devfusion009&repo=yolov8-multiple-vehicle-detection&theme=vue-dark&hide_border=true" />
 </a>
 <a href="https://github.com/Devfusion009/googleserp-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Devfusion009&repo=googleserp-api&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Devfusion009&repo=googleserp-api&theme=vue-dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Devfusion009/OCR_Extension">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Devfusion009&repo=OCR_Extension&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Devfusion009&repo=OCR_Extension&theme=vue-dark&hide_border=true" />
 </a>
 <a href="https://github.com/Devfusion009/nestflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Devfusion009&repo=nestflow&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Devfusion009&repo=nestflow&theme=vue-dark&hide_border=true" />
 </a>
 
 </div>
@@ -102,12 +93,12 @@ AI Systems        →        Backend        →        Cloud        →        P
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devfusion009&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devfusion009&layout=compact&theme=vue-dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Devfusion009&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Devfusion009&layout=compact&theme=vue-dark&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devfusion009&theme=vue-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Devfusion009&theme=vue-dark&hide_border=true" />
 
 </div>
 
