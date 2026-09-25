@@ -1,164 +1,45 @@
-# Hi there 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=🚀+Co-Founder+%40+Codegang;Full+Stack+Developer;AI+%26+Automation+Engineer;AWS+Cloud+Architect;Building+Products+That+Matter" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devfusion009&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Devfusion009?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
----
-
-## 🤝 Connect & Collaborate
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              HEADER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=220&section=header&text=SUBHADIP%20SASMAL&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasmalsubhadip80@gmail.com)
-[![Website](https://img.shields.io/badge/Codegang-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codegang.online/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devfusion009)
+<br/>
 
-</div>
+<a href="https://www.linkedin.com/in/subhadip-sasmal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sasmalsubhadip80@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Devfusion009">
+<img src="https://img.shields.io/badge/GitHub-Devfusion009-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 🚀 About Me
-
-I'm Subhadip a **Software engineer**
-
-With **4+ years of experience**, I specialize in building **AI-powered platforms**, **scalable SaaS products**, and **cloud-native backends** that solve real business problems — not just write code, but architect solutions.
-
-- 🔭 Currently shipping: **AI-powered document generation & client intake systems**
-- 🌱 Exploring: **LLM Agents, RAG pipelines & multi-modal AI**
-- 🏢 Running: **Codegang** — building software for startups & enterprises
-- 💬 Ask me about: **NestJS, AWS, AI integrations, system design**
-- ⚡ Fun fact: I believe the best code is the code you don't have to explain
-
----
-
-## 💼 What We Do at Codegang
-
-### 🤖 AI & Automation
-- Conversational AI apps powered by **Claude, Gemini & OpenAI**
-- AI-driven document generation with **WhatsApp + Payment integrations**
-- Smart intake forms that replace static forms with intelligent conversations
-- LLM Agents & RAG pipelines
-
-### ☁️ Cloud & DevOps
-- **AWS EC2, S3, RDS** — full infrastructure setup & management
-- **Dockerized deployments** with Docker Compose
-- CI/CD pipelines, PM2 process management, auto-scaling
-
-### 🏗 SaaS & Enterprise Platforms
--Built many SaaS platforms built from scratch
-- RESTful & GraphQL APIs
-- Custom dashboards, CRMs & admin panels
-- Third-party & payment integrations
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **AI & Integrations**
-![Anthropic](https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### **Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=Devfusion009&label=Profile%20Views&color=6366f1&style=flat-square" />
 
 </div>
 
 ---
 
+# 👋 Hi, I'm Subhadip
 
+### I build software that connects **AI, automation, and scalable cloud infrastructure.**
 
----
+I'm a **Software Engineer** focused on building production-oriented systems across the full stack — from modern interfaces and backend architectures to AI integrations, cloud infrastructure, and intelligent automation.
 
-## 🏆 Achievements
+With **4+ years of experience**, I enjoy taking complex ideas and turning them into software that is practical, maintainable, and built to scale.
 
-- 🚀 **Co-Founded Codegang** — delivering software products to global clients
-- 🤖 **Shipped AI-powered platforms** integrated with Claude, Gemini & WhatsApp
-- ☁️ **Architected cloud infrastructure** on AWS for production SaaS products
-- 💼 **20+ Projects** delivered end-to-end for startups and enterprises
-- 🎯 **100% Client Satisfaction** — quality and deadlines, always
-- 🏥 Previously at **GE Healthcare** — built medical camera streaming platforms
-
----
-
-## 📈 Notable Projects
-
-| Project | Description |
-|---|---|
-| 🤖 **ResumeAI** | AI-powered resume builder deployed on AWS with Docker |
-| 📄 **OpenPaper** | AI document generation with WhatsApp + Payments (Germany client) |
-| 🏢 **Multi-Tenant SaaS Platform** | Enterprise-grade, built for scale |
-| 📊 **Cement Industry Dashboard** | Real-time analytics platform with contract delivery |
-| 🏥 **GE Healthcare Camera Platform** | Medical-grade live streaming at 90%+ test coverage |
-
----
-
-## 🎯 Services We Offer
-
-```typescript
-const codegang = {
-  aiPoweredProducts: [
-    "Conversational AI Chatbots & Agents",
-    "AI Document Generation Platforms",
-    "Smart Intake & Automation Workflows",
-    "LLM Integration (Claude, Gemini, GPT)"
-  ],
-  fullStackDevelopment: [
-    "SaaS Platform Development (Multi-tenant)",
-    "REST & GraphQL API Development",
-    "Custom Dashboards & Admin Panels",
-    "Third-party & Payment Integrations"
-  ],
-  cloudAndDevOps: [
-    "AWS Infrastructure Setup & Management",
-    "Dockerized Deployment Pipelines",
-    "Performance Optimization & Scaling",
-    "Security Hardening & Monitoring"
-  ]
-};
-```
-
----
-
-### 💡 My Philosophy
-
-> *"Don't just ship features — ship confidence. Every line of code is a promise to the user that it will work."*
-
-> *"The best time to write clean code was at the start. The second best time is now."*
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Something+Amazing&fontSize=24&fontAlignY=65&desc=Open+to+freelance+%7C+SaaS+collab+%7C+enterprise+contracts&descAlignY=50&descAlign=center&fontColor=ffffff" />
-</div>
+```text
+AI Systems        →        Backend        →        Cloud        →        Product
+     │                         │                  │                  │
+     ├─ LLMs                   ├─ APIs           ├─ AWS             ├─ SaaS
+     ├─ RAG                    ├─ Services       ├─ Docker          ├─ Platforms
+     ├─ Agents                 ├─ Databases      ├─ CI/CD           ├─ Dashboards
+     └─ Automation             └─ Architecture   └─ Infrastructure  └─ Integrations
